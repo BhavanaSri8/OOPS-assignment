@@ -38,5 +38,8 @@ The system is designed using proper OOP architecture:
 - Each banking entity is represented as a class  
 - Responsibilities are divided across multiple modules  
 - Business logic is separated from user interaction  
-- Interfaces are used for dependency injection and scalability  
+- Interfaces are used for dependency injection and scalability
+
+  ---
+  ## OUTPUT
 <img width="927" height="246" alt="image" src="https://github.com/user-attachments/assets/a0cf9a57-5b9e-48ec-b498-c6aebfabea5e" />
